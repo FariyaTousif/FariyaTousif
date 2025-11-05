@@ -29,8 +29,6 @@ I started in digital marketing and found my passion for AI while analyzing ad ca
 
 ---
 
-# Hi, I'm Fariya 👋
-
 I’m a passionate and curious learner focused on **Data Science, Machine Learning, and AI**.  
 My background in digital marketing helps me connect technical insights to real business outcomes.  
 I’m actively building practical ML skills and looking for internships, training programs, or fellowships where I can contribute and keep learning.
