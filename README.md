@@ -40,10 +40,6 @@ I’m actively building practical ML skills and looking for internships, trainin
 - Supervised learning, model evaluation, feature engineering  
 - Data cleaning, exploratory data analysis (EDA), visualization  
 
-**Tools & Platforms**
-- Jupyter / Colab, Git, GitHub, Excel  
-- (Add other tools you know: TensorFlow, PyTorch, Docker, etc.)
-
 **Soft skills**
 - Analytical thinking, data-driven decision making, persistence, responsibility  
 
