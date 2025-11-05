@@ -1,4 +1,4 @@
-<img width="1584" height="396" alt="Banner Design" src="https://github.com/user-attachments/assets/e2505d29-acde-4853-b8bf-3ebd4e299219" />
+<img width="1920" height="1080" alt="Aspiring ML Engineer   Digital marketing" src="https://github.com/user-attachments/assets/5af7032c-7c32-401b-8215-d60d3e4b1eb7" />
 
 
 ## Hi there 👋
