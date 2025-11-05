@@ -1,4 +1,4 @@
-<img width="1920" height="1080" alt="Aspiring ML Engineer   Digital marketing (1)" src="https://github.com/user-attachments/assets/7c996836-72b9-49e1-b928-308afa8af0bc" />
+<img width="1920" height="707" alt="Aspiring ML Engineer   Digital marketing (1)" src="https://github.com/user-attachments/assets/f5989b0e-88ed-466c-881c-63d5b13a71fd" />
 
 ## Hi there 👋
 
