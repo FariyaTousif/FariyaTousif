@@ -11,7 +11,7 @@ I’m currently exploring how data-driven approaches can create real-world impac
 - 👯 I’m looking to collaborate on: Data analysis, ML projects, or open-source initiatives  
 - 🤔 I’m looking for help with: Advancing my ML modeling and deployment skills  
 - 💬 Ask me about: Data analytics, marketing strategy, and transitioning into AI/ML  
-- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/YOUR_LINKEDIN) | 📧 your.email@example.com  
+- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/fariyatousif/)
 - 😄 Pronouns: She/Her *(or your preferred pronouns)*  
 - ⚡ Fun fact: I started in digital marketing and found my passion for AI while analyzing ad campaign data!
 
