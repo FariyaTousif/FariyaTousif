@@ -35,7 +35,6 @@ I’m actively building practical ML skills and looking for internships, trainin
 
 **Languages & Libraries**
 - Python — pandas, NumPy, scikit-learn, matplotlib  
-- (Add: R / SQL / JavaScript if applicable)
 
 **Machine Learning & Data**
 - Supervised learning, model evaluation, feature engineering  
