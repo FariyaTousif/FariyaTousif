@@ -1,16 +1,70 @@
 ## Hi there 👋
 
-<!--
-**FariyaTousif/FariyaTousif** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my GitHub profile!  
+I’m passionate about **Data Science, Machine Learning, and AI**, with a background in **digital marketing** that strengthened my analytical mindset and business understanding.  
+I’m currently exploring how data-driven approaches can create real-world impact.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 I’m currently working on: Building data analysis and ML projects using Python and Colab  
+- 🌱 I’m currently learning: Machine Learning, Exploratory Data Analysis (EDA), and Model Evaluation  
+- 👯 I’m looking to collaborate on: Data analysis, ML projects, or open-source initiatives  
+- 🤔 I’m looking for help with: Advancing my ML modeling and deployment skills  
+- 💬 Ask me about: Data analytics, marketing strategy, and transitioning into AI/ML  
+- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/YOUR_LINKEDIN) | 📧 your.email@example.com  
+- 😄 Pronouns: She/Her *(or your preferred pronouns)*  
+- ⚡ Fun fact: I started in digital marketing and found my passion for AI while analyzing ad campaign data!
+
+---
+
+# Hi, I'm Fariya 👋
+
+I’m a passionate and curious learner focused on **Data Science, Machine Learning, and AI**.  
+My background in digital marketing helps me connect technical insights to real business outcomes.  
+I’m actively building practical ML skills and looking for internships, training programs, or fellowships where I can contribute and keep learning.
+
+---
+
+## 🔭 Short intro
+- Former digital marketer with hands-on experience in dropshipping, campaign strategy, and customer engagement.  
+- Transitioning to Machine Learning & AI with a foundation in data analysis and a strong focus on applied projects.  
+- Driven by continuous growth — I value mentorship, structured learning, and collaborative teams.  
+
+---
+
+## ⚙️ Skills
+
+**Languages & Libraries**
+- Python — pandas, NumPy, scikit-learn, matplotlib  
+- (Add: R / SQL / JavaScript if applicable)
+
+**Machine Learning & Data**
+- Supervised learning, model evaluation, feature engineering  
+- Data cleaning, exploratory data analysis (EDA), visualization  
+
+**Tools & Platforms**
+- Jupyter / Colab, Git, GitHub, Excel  
+- (Add other tools you know: TensorFlow, PyTorch, Docker, etc.)
+
+**Soft skills**
+- Analytical thinking, data-driven decision making, persistence, responsibility  
+
+---
+
+## 🚀 Key links
+- 🔗 LinkedIn — https://www.linkedin.com/in/fariyatousif/
+
+---
+
+## 🛠️ What I'm building / looking for
+- Currently learning practical ML through hands-on projects and guided coursework.  
+- Seeking internships or fellowship opportunities in ML, AI, or data-driven roles where I can apply and expand my skills.  
+
+---
+
+## 📫 Contact
+If you’re open to mentoring, internships, or a quick chat — feel free to reach out via LinkedIn.  
+
+---
+
+*Thanks for visiting — I update this README as I learn and build!* 🚀
