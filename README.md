@@ -1,3 +1,6 @@
+<img width="1584" height="396" alt="Banner Design" src="https://github.com/user-attachments/assets/e2505d29-acde-4853-b8bf-3ebd4e299219" />
+
+
 ## Hi there 👋
 
 Welcome to my GitHub profile!  
